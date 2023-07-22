@@ -6,8 +6,15 @@
   "publisher": "FBats",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/BatsFA/batsdesigns-dark"
   },
+  "keywords": [
+    "BatsDesigns",
+    "dark theme",
+    "dark",
+    "high contrast",
+    "BatsDesigns dark"
+  ],
   "engines": {
     "vscode": "^1.80.0"
   },
