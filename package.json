@@ -1,0 +1,26 @@
+{
+  "name": "batsdesigns-dark",
+  "displayName": "BatsDesigns Dark",
+  "description": "Dark theme by BatsDesigns",
+  "version": "0.0.1",
+  "publisher": "FBats",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BatsDesigns Dark/High contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BatsDesigns DarkHigh contrast-color-theme.json"
+      }
+    ]
+  }
+}
